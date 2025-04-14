@@ -10,11 +10,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Weather-Data-in-BigQuery-GSP009/refs/heads/main/qwiklab_explorers_gsp009.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Endpoints-Qwik-Start-GSP164/refs/heads/main/qwiklab_explorers_gsp164.sh
 
-sudo chmod +x qwiklab_explorers_gsp009.sh
+sudo chmod +x qwiklab_explorers_gsp164.sh
 
-./qwiklab_explorers_gsp009.sh
+./qwiklab_explorers_gsp164.sh
 ```
 
 ---
